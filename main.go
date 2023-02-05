@@ -86,8 +86,9 @@ func main() {
 
 	insertionSort(ar)
 	fmt.Println(ar)
-	quicksort(ar)
-	selectionsort(ar)
-	fmt.Println(ar)
+	//quicksort(ar)
+
+	// selectionsort(ar)
+	//fmt.Println(ar)
 
 }
